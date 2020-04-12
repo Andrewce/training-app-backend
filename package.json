@@ -1,0 +1,17 @@
+{
+  "name": "training-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "node index.js"
+  },
+  "author": "Andrei Lupacescu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "7.18.2"
+  }
+}
